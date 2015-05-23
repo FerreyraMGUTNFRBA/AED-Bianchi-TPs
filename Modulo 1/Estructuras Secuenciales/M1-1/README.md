@@ -17,7 +17,7 @@ ___
 
 #####Algoritmo de Resolución.
 
-![AlgoritmoResolucion](M1-1-AlgResolucion.jpg "Algoritmo de Resolucion")
+![AlgoritmoResolucion](M1-1-AlgResolucion.JPG "Algoritmo de Resolucion")
 ___
 #####Seguimiento.
-![Seguimiento](M1-1-Seguimiento.jpg "revolunet logo")
+![Seguimiento](M1-1-Seguimiento.JPG "revolunet logo")
